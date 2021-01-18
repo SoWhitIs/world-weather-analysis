@@ -83,7 +83,7 @@ Travel Itinerary, Country: South Africa, By Directions: Driving </b></i>
 Travel Itinerary, Country: South Africa, User Choice of Four Cities</b></i> 
  </p>
 <p align="center">
-  <img src="additionalresources/itinerary_map_markers.png" />
+  <img src="weather_itinerary/WeatherPy_travel_map_markers.png" />
 </p>
 
 ***
