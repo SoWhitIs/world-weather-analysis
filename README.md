@@ -1,4 +1,4 @@
-# _ *Map IT!*_  || PlanMyTrip, Hotel and Lodging App WeatherPy Analysis  
+# *Map IT!*  || PlanMyTrip, Hotel and Lodging App WeatherPy Analysis  
 
 
 ## Overview of Project
@@ -9,7 +9,7 @@ Analysis consisted of data pull of over 1500 latitudes and longtiudes (cities wo
 
 Hotel Information was later added to give users an "ideal" place to vacation inclusive of city and country. 
 
-A user prompt was coded to reutrn "real-time" results based inputted minimum and maximum temperature criteria. 
+A user prompt was coded to reutrn "real-time" results based on inputted minimum and maximum temperature preference. 
 
 
 
