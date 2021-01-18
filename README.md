@@ -18,7 +18,9 @@ A user prompt was coded to reutrn "real-time" results based on desired input of 
 
 • Data Source (s): WeatherPy_vacation.csv*, WeatherPy_Database.csv, cities.csv
 
-• Software: Python 3.7.6 64-bit | Python Libaries: Pandas, Matplotlib, SciPy, NumPy, Requests, Gmaps | CityPy (package) | Jupyter Notebook | Anaconda | OpenWeatherMap API, Goggle Maps and Places API |JSON Traversals 
+• Software: Python 3.7.6 64-bit | Python Libaries: Pandas, Matplotlib, SciPy, NumPy, Requests, Gmaps | CityPy (package) | Jupyter Notebook | Anaconda | OpenWeatherMap API, Goggle Maps and Places API | JSON Traversals 
+
+* Data Access: Workaround, [Project Jupyter: jupyter nbviewer](nbviewer.jupyter.org), a Jupytner Notebook renderer **
 
  * **Note(s)**:  
     * File Folder: weather_search: 
