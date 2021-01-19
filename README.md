@@ -24,7 +24,7 @@ A user prompt was coded to reutrn "real-time" results based on desired input of 
 
  * **Note(s)**:  
     * File Folder: weather_search: 
-        *  Hotel _Casa do IanðŸ˜Ž_: Jacareacanga, BR from file WeatherPy_vacation.csv, appears as this: Casa do Ian😎  with a emoji at the end of the name when viewed on GitHub.
+        *  Hotel _Casa do IanðŸ˜Ž_: Jacareacanga, BR from file WeatherPy_vacation.csv. The former Hotel name ends in special characters, yet appears as this: Casa do Ian😎  with a emoji at the end of the name when viewed on GitHub or Jupyter Notebook.  
 
     * Weather information, specfically, will vary and is dependent on **_when_** data was pulled. 
 
