@@ -16,17 +16,17 @@ A user prompt was coded to reutrn "real-time" results based on desired input of 
 
 ### Resources
 
-• Data Source(s): WeatherPy_vacation.csv*, WeatherPy_Database.csv, cities.csv
+* Data Source(s): WeatherPy_vacation.csv*, WeatherPy_Database.csv, cities.csv
 
-• Software: Python 3.7.6 64-bit | Python Libaries: Pandas, Matplotlib, SciPy, NumPy, Requests, Gmaps | CityPy (package) | Jupyter Notebook** | Anaconda | OpenWeatherMap API, Goggle Maps and Places API | JSON Traversals 
+* Software: Python 3.7.6 64-bit | Python Libaries: Pandas, Matplotlib, SciPy, NumPy, Requests, Gmaps | CityPy (package) | Jupyter Notebook** | Anaconda | OpenWeatherMap API, Goggle Maps and Places API | JSON Traversals 
 
-* Data Access: Workaround, [Project Jupyter: jupyter nbviewer](https://nbviewer.jupyter.org/), a Jupytner Notebook renderer **
+   * Data Access: Workaround, [Project Jupyter: jupyter nbviewer](https://nbviewer.jupyter.org/), a Jupytner Notebook renderer **
 
- * **Note(s)**:  
-    * File Folder: weather_search: 
+    * **Note(s)**:  
+      * File Folder: weather_search: 
         *  Hotel _Casa do IanðŸ˜Ž_: Jacareacanga, BR from file WeatherPy_vacation.csv. The former Hotel name ends in special characters, yet appears as this: Casa do Ian😎  with a emoji at the end of the name when viewed on GitHub or Jupyter Notebook.  
 
-    * Weather information, specfically, will vary and is dependent on **_when_** data was pulled. 
+          * Weather information, specfically, will vary and is dependent on **_when_** data was pulled. 
 
 
 ### Results 
